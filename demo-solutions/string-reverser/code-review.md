@@ -80,6 +80,7 @@ ___
 
 ### Tests
 
+* Are there a minimum of 6 test cases?
 * Is the test file properly named and in the /tests folder?
 * Are the tests & tinytest required into the index.html?
 * Are the test cases descriptively named?
